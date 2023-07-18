@@ -1,0 +1,13 @@
+name: sales_dash_shiny
+title: sales_dash_shiny
+username:
+account: julian150397
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9422670
+bundleId: 7439653
+url: https://julian150397.shinyapps.io/sales_dash_shiny/
+when: 1688992508.17491
+lastSyncTime: 1688992508.17492
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,13 @@
+name: stock_analyzer_shiny
+title: stock_analyzer_shiny
+username:
+account: julian150397
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9435802
+bundleId: 7441322
+url: https://julian150397.shinyapps.io/stock_analyzer_shiny/
+when: 1689017762.17975
+lastSyncTime: 1689017762.17976
+asMultiple: FALSE
+asStatic: FALSE
